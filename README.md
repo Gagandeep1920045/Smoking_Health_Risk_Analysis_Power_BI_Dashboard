@@ -37,6 +37,6 @@ The primary objective is to evaluate the correlation between smoking habits (dur
 
 ## Dashboard Preview 📷  
 This is how the dashboard looks like :
-
+![Alt_text](https://github.com/Gagandeep1920045/Smoking_Health_Risk_Analysis_Power_BI_Dashboard/blob/main/Smoking_Health_Risk_Analysis_Dashboard.png)
 
 
