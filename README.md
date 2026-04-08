@@ -1,13 +1,13 @@
 # Smoking_Health_Risk_Analysis_Power_BI_Dashboard
 
-## 1.	Project Title / Headline  
+## 1.	Project Title / Headline 📑
 #### Smoking Health Risk Analysis📈
 Empowering Clinical Decisions through Patient Data Visualization
 
-## 2. Short Description / Purpose  
+## 2. Short Description / Purpose 🎯
 This project provides a comprehensive analysis of the physiological impacts of smoking across a patient demographic of 155 individuals. By correlating smoking status with biometric data like BMI, age, and cholesterol, the dashboard identifies high-risk cohorts to assist healthcare providers in targeted intervention and preventative care.
 
-## 3. Tech Stack
+## 3. Tech Stack 💻
 The dashboard was built using the following tools and technologies:  
 •	📊 Power BI Desktop – Main data visualization platform used for report creation.  
 •	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.  
@@ -16,7 +16,7 @@ The dashboard was built using the following tools and technologies:
 enable cross-filtering and aggregation.  
 •	📁 File Format – .pbix for development and .png for dashboard previews.  
 
-## 4. Features / Highlights  
+## 4. Features / Highlights  💡
 ### 📌 Business Problem  
 Healthcare providers often struggle to visualize the multi-organ impact of lifestyle choices in a single view. Identifying which demographic (age/gender) is most susceptible to secondary risks like hypertension and high cholesterol due to smoking is critical for reducing long-term treatment costs.
 
